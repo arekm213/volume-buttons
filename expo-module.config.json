@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "tvos", "android", "web"],
+  "ios": {
+    "modules": ["VolumeButtonsModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.volumebuttons.VolumeButtonsModule"]
+  }
+}
